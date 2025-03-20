@@ -1,6 +1,6 @@
 {
   "$schema": "https://leaves.mintlify.com/schema/mint.json",
-  "theme": "venus",
+  "theme": "maple",
   "name": "hade",
   "colors": {
     "primary": "#dce312",
