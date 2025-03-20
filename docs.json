@@ -66,11 +66,6 @@
           "anchor": "Support Server",
           "href": "https://discord.gg/AvKxtF7e2H",
           "icon": "discord"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
         }
       ]
     }
@@ -83,7 +78,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://discord.gg/AvKxtF7e2H"
       }
     ],
     "primary": {
