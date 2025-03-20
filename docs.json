@@ -6,11 +6,6 @@
     "primary": "#dce312",
     "light": "#07c983",
     "dark": "#807915",
-    "anchors": {
-      "from": "#Da627d",
-      "via": "#c084fc",
-      "to": "#a855f7"
-    }
   },
   "favicon": "/favicon.png",
   "navigation": {
