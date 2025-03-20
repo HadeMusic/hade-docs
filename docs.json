@@ -1,80 +1,21 @@
 {
-  "$schema": "https://leaves.mintlify.com/schema/mint.json",
-  "theme": "maple",
-  "name": "hade",
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Hade Documentation",
   "colors": {
-    "primary": "#dce312",
-    "light": "#07c983",
-    "dark": "#807915",
-    "anchors": {
-      "from": "#Da627d",
-      "via": "#c084fc",
-      "to": "#a855f7"
-    }
+    "primary": "#2AB673",
+    "light": "#55D799",
+    "dark": "#117866"
   },
-  "favicon": "/favicon.png",
-  "navigation": [
-    {
-      "group": "Get Started",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete",
-        "api-reference/endpoint/webhook"
-      ]
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Documentation",
-      "url": "https://docs.hadebot.de",
-      "icon": "book-open-cover"
-    },
-    {
-      "name": "Support Server",
-      "url": "https://discord.gg/AvKxtF7e2H",
-      "icon": "discord"
-    }
-  ],
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "https://discord.gg/AvKxtF7e2H"
-    }
-  ],
-  "topbarCtaButton": {
-    "name": "Website",
-    "url": "https://hadebot.de"
-  },
-  "footer": {
-    "socials": {
-      "discord": "https://discord.gg/AvKxtF7e2H",
-      "github": "https://github.com/HadeMusic"
-    }
+  "favicon" : "/favicon.png",
+  "navigation" : {
+     "pages": [
+      {
+        "group": "Getting Started",
+        "icon" : "pen-paintbrush",
+        "pages": ["quickstart" , "introduction"]
+      }
+     ]
+   
   }
 }
